@@ -1,0 +1,5 @@
+../Core/Src/main.c:73:6:Motor_Control	16	static
+../Core/Src/main.c:103:6:PID_Control	56	static
+../Core/Src/main.c:162:5:main	8	static
+../Core/Src/main.c:230:6:SystemClock_Config	72	static
+../Core/Src/main.c:272:6:Error_Handler	4	static,ignoring_inline_asm
