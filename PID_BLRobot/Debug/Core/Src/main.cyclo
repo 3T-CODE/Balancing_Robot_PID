@@ -1,0 +1,5 @@
+../Core/Src/main.c:79:6:Motor_Control	5
+../Core/Src/main.c:109:6:PID_Control	13
+../Core/Src/main.c:174:5:main	2
+../Core/Src/main.c:246:6:SystemClock_Config	3
+../Core/Src/main.c:288:6:Error_Handler	1
